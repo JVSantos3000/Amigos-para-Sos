@@ -1,0 +1,439 @@
+#Total{
+    width: 100%;
+
+}
+
+.navbar-expand-lg{
+    width: auto;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+
+.container-fluid{
+    background-color: #5d9fd4;
+    
+}
+
+.navbar-collapse{
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.nav-link{
+   
+    color: antiquewhite;
+   
+    font-size: larger;
+
+}
+
+
+
+#Imagem_Banner{
+    
+    width: 100%;
+}
+
+
+
+strong{
+    color: #c02723;
+    
+}
+
+#Resumo_QuemSomos{
+    background-color: #e0ecf6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 160%;
+    margin: 5%;
+    padding: 5%;
+    
+    text-align: center;
+}
+
+#Botao_Resumo_QuemSomos{
+  
+    width: 100%px;
+    color:aliceblue;
+    border-radius: 15%;
+    font-size: larger;
+    background-color: #463170;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+#Botao_Resumo_QuemSomos{
+    font-size: 3vw;
+    text-align: center;
+}
+
+
+
+#Projetos{
+    width: 100%;
+    padding: 5%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 2%;
+    overflow: auto;
+}
+
+.card{
+    background-color: #e0ecf6;
+    padding: 10%;
+    text-align: center;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1vw;
+    
+}
+
+.card-title{
+    font-size: 1.5vw;
+}
+
+.btn-secondary{
+    position: absolute;
+    left: 25%;
+    bottom: 3%;
+    width: 50%;
+    color:aliceblue;
+    border-radius: 15%;
+    font-size: larger;
+    background-color: #463170;
+}
+
+#Missao_Valores_Visao{
+    background-color: #e0ecf6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    margin: 5%;
+    padding: 5%;
+    position: relative;
+    text-align: center;
+    font-size: large;
+
+
+
+
+
+
+
+
+}
+
+#Titulo_Missao_Valores_Visao{
+    background-color: #5d9fd4;
+}
+
+
+#Doacoes_Voluntarios{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 5%;
+    display: grid;
+    grid-template-columns: auto auto
+   
+}
+
+#Box_Doacoes_Voluntarios{
+    position: relative;
+}
+
+#Imagem_Doacoes{
+    
+    width: 100%;
+    height: 100%;
+    
+}
+
+#Imagem_Voluntarios{
+   
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+
+
+#Banner_Parceiros{
+    margin: 5%;
+    
+}
+
+#Texto_Banner_Parceiros{
+    margin: 2%;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#Imagem_Banner_Parceiros{
+    width: 100%;
+}
+
+
+#Rodape{
+    background-color: #5d9fd4;
+    display: grid;
+    grid-template-columns: auto auto
+   
+}
+
+
+#Imagens_Redes_sociais{
+    width: 25%;
+    
+}
+
+#links{
+    font-size: x-larger;
+    color: aliceblue;
+}
+
+#Texto_Rodape{
+    color: aliceblue;
+    margin: 3%;
+    font-size: x-larger;
+
+}
+
+
+#Redes_sociais{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 2%;
+}
+
+
+#Imagem_Banner_NossaHistória{
+   
+    width: 100%;
+}
+
+#QuemSomos{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    gap: 2%;
+   
+}
+
+
+#QuemSomos2{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    gap: 2%;
+   
+}
+
+#Texto_QuemSomos1{
+    background-color: #e0ecf6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5vw;
+    padding: 5%;
+   
+    position: relative;
+    text-align: center;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+#Texto_QuemSomos2{
+    background-color: #e0ecf6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5vw;
+    padding: 5%;
+   
+    position: relative;
+    text-align: center;
+    grid-column: 2;
+    grid-row: 2;
+}
+
+#galeria_historia{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto auto;
+    column-gap: 1%;
+    row-gap: 2%;
+
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#galeria{
+    width: 100%;
+}
+
+
+#Texto_QuemSomos3{
+    background-color: #e0ecf6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5vw;
+    
+    padding: 5%;
+    position: relative;
+    text-align: center;
+    grid-column: 2;
+    grid-row: 1;
+}
+
+#Texto_QuemSomos4{
+    background-color: #e0ecf6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5vw;
+    
+    padding: 5%;
+    position: relative;
+    text-align: center;
+    grid-column: 1;
+    grid-row: 2;
+}
+
+#Imagem_QuemSomos{
+    width: 100%;
+   
+    grid-column: 2;
+    grid-row: 1;
+}
+
+#Imagem_QuemSomos_inicio{
+    width: 100%;
+ 
+    grid-column: 1;
+    grid-row: 2;
+}
+
+
+
+#Carrosel_2{
+    grid-column: 2;
+    grid-row: 2;
+    
+}
+
+#Imagem_Carrosel_2{
+    width: 100%;
+}
+
+
+
+
+
+#Texto_Transparência{
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+
+#Transparência{
+    width: 100%;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+
+    padding: 5%;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 2%;
+    overflow: auto;
+   
+}
+
+#Apresentação_Transparência{
+    background-color: #e0ecf6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5vw;
+    margin: 1%;
+    padding: 5%;
+    text-align: center;
+
+}
+
+#Imagem_Banner_Transparência{
+   
+    width: 100%;
+}
+
+
+
+#Imagem_Banner_Projetos{
+    
+    width: 100%;
+}
+
+
+
+#Imagem_Banner_Doações{
+   
+    width: 100%;
+}
+
+
+
+#Projetos_Detalhados{
+    width: 100%;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    padding: 5%;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid-template-rows: auto auto auto auto; 
+    gap: 2%;
+    overflow: auto;
+    
+}
+
+#cadastro{
+    text-align: center;
+}
+
+
+#Formulario_Doacoes{
+    background-color: #5d9fd4;
+    width: 79%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    padding: 2%;
+}
+
+.btn-primary{
+    background-color: #463170;
+}
+
+
+#galeria_projetos{
+   
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto auto;
+    column-gap: 1%;
+    row-gap: 2%;
+
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20%;
+}
+
+
